@@ -13,7 +13,7 @@ int main()
 
 	// generate random number from 1-100
 	// without +1, range would be 0-99
-	// number after '+' is the start of range
+	// number after '+' is the start of range, omit + to start range at 0
 	// number after '%' is how many numbers in range
 	// source for srand() help: http://stackoverflow.com/questions/1108780/why-do-i-always-get-the-same-sequence-of-random-numbers-with-rand
 	srand(time(NULL));
