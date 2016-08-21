@@ -1,0 +1,4 @@
+﻿  MathPractice.cpp
+c:\users\jdavet\documents\visual studio 2015\projects\cpp\mathpractice\mathpractice\mathpractice.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jdavet\documents\visual studio 2015\projects\cpp\mathpractice\mathpractice\mathpractice.cpp(155): warning C4715: 'setDifficulty': not all control paths return a value
+  MathPractice.vcxproj -> C:\Users\jdavet\Documents\Visual Studio 2015\Projects\CPP\MathPractice\Debug\MathPractice.exe
