@@ -1,0 +1,5 @@
+﻿  ChangeReturn.cpp
+c:\users\jdavet\documents\visual studio 2015\projects\cpp\changereturn\changereturn\changereturn.cpp(52): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jdavet\documents\visual studio 2015\projects\cpp\changereturn\changereturn\changereturn.cpp(55): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jdavet\documents\visual studio 2015\projects\cpp\changereturn\changereturn\changereturn.cpp(58): warning C4305: '=': truncation from 'double' to 'float'
+  ChangeReturn.vcxproj -> C:\Users\jdavet\Documents\Visual Studio 2015\Projects\CPP\ChangeReturn\Debug\ChangeReturn.exe
