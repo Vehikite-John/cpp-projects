@@ -1,0 +1,15 @@
+﻿  week10.cpp
+week10.cpp(169): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(179): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(188): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(201): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(251): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(268): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(329): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(360): warning C4018: '>': signed/unsigned mismatch
+week10.cpp(413): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(456): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(496): warning C4018: '<': signed/unsigned mismatch
+week10.cpp(507): warning C4018: '>': signed/unsigned mismatch
+week10.cpp(599): warning C4018: '<': signed/unsigned mismatch
+  Final Project - Access Control.vcxproj -> C:\Users\jdavet\Documents\Visual Studio 2015\Projects\CPP\Final Project - Access Control\Debug\Final Project - Access Control.exe
