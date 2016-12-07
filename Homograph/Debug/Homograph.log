@@ -1,0 +1,3 @@
+﻿  homograph.cpp
+homograph.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  Homograph.vcxproj -> C:\Users\jdavet\Documents\Visual Studio 2015\Projects\CPP\Homograph\Debug\Homograph.exe
